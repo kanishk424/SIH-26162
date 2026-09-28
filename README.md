@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ThermalSense
 
 A light-themed industrial thermal surveillance demo for safety and disaster-management teams.
@@ -33,3 +34,6 @@ No satellite, geospatial, authentication, or alert-delivery APIs are connected. 
 - `src/data.ts`: observations, filters, historical readings, and local exports.
 - `src/components/`: map, chart, navigation, filters, and investigation tabs.
 - `src/index.css`: responsive visual system and motion.
+=======
+# SIH-26162
+>>>>>>> 18bf7c7fc6794492e944ba4167bf1d4c3cf812d0
